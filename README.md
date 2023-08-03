@@ -17,12 +17,17 @@ Abre una terminal y navega hasta el directorio del proyecto.
 Ejecuta el siguiente comando para instalar las dependencias necesarias:
 
 `npm install`
+
 Luego, ejecuta el siguiente comando para iniciar la aplicación en modo de desarrollo:
 
 `npm start`
+
 Ahora puedes acceder a la aplicación en tu navegador web visitando http://localhost:3000.
 ### Dependencias
 React v18.2.0
+
 React DOM v18.2.0
+
 React Scripts v5.0.1
+
 Tailwind CSS v3.3.2
